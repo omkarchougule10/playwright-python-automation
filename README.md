@@ -1,4 +1,4 @@
-<img width="1422" height="651" alt="image" src="https://github.com/user-attachments/assets/ca500dea-eb10-4961-a71c-286a8542b879" />## Day 1 — Playwright Installation & First Browser Automation
+## Day 1 — Playwright Installation & First Browser Automation
 
 ### Topics Learned
 
