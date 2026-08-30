@@ -1,4 +1,4 @@
-## Day 1 — Playwright Installation & First Browser Automation
+Installation & First Browser Automation
 
 ### Topics Learned
 
@@ -39,3 +39,52 @@ page.get_by_role("heading", name="Heading").highlight()
 page.get_by_role("radio", name="Option").click()
 
 page.get_by_role("switch", name="Default switch").click()
+
+
+## Day 3 — Playwright Locators
+
+### Topics Learned
+
+- Playwright Python REPL
+- Locator by Role
+- Locator for Input Fields
+- Locator by Text
+- Locator by Alt Text
+- Locator by Title
+- Locating Elements with CSS Selectors
+- CSS Selector Hierarchy
+- CSS Selector Pseudo Classes
+- XPath Locators
+- XPath Functions
+- Other Playwright Locators
+
+### Practice Completed
+
+- Located buttons, links, and input fields
+- Used `get_by_role()` locator
+- Used text-based locators
+- Practiced CSS selector hierarchy
+- Handled multiple matching elements using `.nth()`
+- Practiced XPath selectors
+
+### Status
+
+✅ Completed
+
+
+## Day 4 — Playwright Actions & User Interactions
+
+### Topics Learned
+
+- Mouse actions
+- Actions on text input fields
+- Handling radio buttons
+- Handling checkboxes and switches
+- Selecting dropdown options
+- Handling dropdown menus
+- Uploading files using `set_input_files()`
+- Keyboard shortcuts using Playwright
+
+### Status
+
+✅ Completed
